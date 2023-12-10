@@ -11,7 +11,6 @@
 
 ## Simple Version
 
-<div class="flow">
 1. ![](img/Mounting-Harness-1-1.jpg) Begin with a Doggy Style Harness.
 2. ![](img/Mounting-Harness-1-2.jpg) Add a new rope to the inside of the cuff on each leg. To do so, run the bight under the cuff as shown…
 3. ![](img/Mounting-Harness-1-3.jpg) …reach through the bight to grab the tail…
@@ -34,7 +33,6 @@
 19. ![](img/Mounting-Harness-1-19.jpg) Here you have a choice: (1) You could bring the tails up to the fronts and tie them around your waist placing a knot in front of your stomach, or…
 20. ![](img/Mounting-Harness-1-20.jpg) … (2) you can run them under the waistband at the middle of your partner’s back.
 21. ![](img/Mounting-Harness-1-21.jpg) If you choose this option, you have a fun little handle you can use to control how tightly your partner’s being pulled into you. Ride ‘em cowpoke!
-</div>
 
 ## Expanded Version
 
