@@ -1,0 +1,2 @@
+ol { display: flex; flex-wrap: wrap; gap: 1em; max-width: 100%; }
+ol>li {max-width: 18rem;}
