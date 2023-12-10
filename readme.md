@@ -1,5 +1,13 @@
 # [Mounting Harness - TheDuchy](img/#pics-extended-version)
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [Simple Version](#simple-version)
+* [Expanded Version](#expanded-version)
+
+<!-- vim-markdown-toc -->
+
 ## Simple Version
 
 1. Begin with a Doggy Style Harness.![](img/Mounting-Harness-1-1.jpg)
