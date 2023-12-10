@@ -11,7 +11,7 @@
 
 ## Simple Version
 
-<div class="list">
+<div class="list" markdown="1">
   
 - ![](img/Mounting-Harness-1-1.jpg) 1.  Begin with a Doggy Style Harness.
 - ![](img/Mounting-Harness-1-2.jpg) 2.  Add a new rope to the inside of the cuff on each leg. To do so, run the bight under the cuff as shown…
