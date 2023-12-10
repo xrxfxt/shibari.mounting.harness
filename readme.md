@@ -1,5 +1,6 @@
 # [Mounting Harness - TheDuchy](img/#pics-extended-version)
 
+
 <!-- vim-markdown-toc GFM -->
 
 * [Simple Version](#simple-version)
@@ -7,10 +8,10 @@
 
 <!-- vim-markdown-toc -->
 
+
+## Simple Version
+
 <div class="flow">
-
-  ## Simple Version
-
 1. ![](img/Mounting-Harness-1-1.jpg) Begin with a Doggy Style Harness.
 2. ![](img/Mounting-Harness-1-2.jpg) Add a new rope to the inside of the cuff on each leg. To do so, run the bight under the cuff as shown…
 3. ![](img/Mounting-Harness-1-3.jpg) …reach through the bight to grab the tail…
@@ -33,8 +34,11 @@
 19. ![](img/Mounting-Harness-1-19.jpg) Here you have a choice: (1) You could bring the tails up to the fronts and tie them around your waist placing a knot in front of your stomach, or…
 20. ![](img/Mounting-Harness-1-20.jpg) … (2) you can run them under the waistband at the middle of your partner’s back.
 21. ![](img/Mounting-Harness-1-21.jpg) If you choose this option, you have a fun little handle you can use to control how tightly your partner’s being pulled into you. Ride ‘em cowpoke!
+</div>
 
 ## Expanded Version
+
+<div class="flow">
 
 1. ![](img/Mounting-Harness-2-1.jpg) Start as you do in the version above, but this time place your Lark’s Head Knots to the outside of your partner’s thigh cuffs.
 2. ![](img/Mounting-Harness-2-2.jpg) Run the tails down through between the thigh cuffs and your partner closer to the center of the thigh straps, as shown. These will be the top of the straps going around your thighs.
