@@ -13,4 +13,4 @@ permissions:
 
 jobs:
   deploy:
-    uses: xrxfxt/ghp/.github/workflows/ghp.yml@main
+    uses: xrxfxt/ghp/.github/workflows/jekyll-gh-pages.yml@main
