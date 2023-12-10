@@ -8,6 +8,8 @@
 
 <!-- vim-markdown-toc -->
 
+
+<div class="flow">
 ## Simple Version
 
 1. ![](img/Mounting-Harness-1-1.jpg) Begin with a Doggy Style Harness.
@@ -54,3 +56,5 @@
 14. ![](img/Mounting-Harness-2-14.jpg) Bring the tails forward and underneath the back of the waist strap of the Doggy Style Harness.
 15. ![](img/Mounting-Harness-2-15.jpg) Pull the tails to set the level of tightness you want.
 16. ![](img/Mounting-Harness-2-16.jpg) You can either hold onto these lines and can therefore can adjust tension throughout your scene, or you can tie them off.
+
+</div>
