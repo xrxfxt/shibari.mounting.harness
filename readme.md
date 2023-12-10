@@ -9,9 +9,10 @@
 <!-- vim-markdown-toc -->
 
 
+<div class="flow" markdown="1">
+
 ## Simple Version
 
-<div class="list" markdown="1">
   
 - ![](img/Mounting-Harness-1-1.jpg) 1.  Begin with a Doggy Style Harness.
 - ![](img/Mounting-Harness-1-2.jpg) 2.  Add a new rope to the inside of the cuff on each leg. To do so, run the bight under the cuff as shown…
@@ -36,8 +37,6 @@
 - ![](img/Mounting-Harness-1-20.jpg) 20.  … (2) you can run them under the waistband at the middle of your partner’s back.
 - ![](img/Mounting-Harness-1-21.jpg) 21.  If you choose this option, you have a fun little handle you can use to control how tightly your partner’s being pulled into you. Ride ‘em cowpoke!
 
-</div>
-
 ## Expanded Version
 
 - ![](img/Mounting-Harness-2-1.jpg) 1.  Start as you do in the version above, but this time place your Lark’s Head Knots to the outside of your partner’s thigh cuffs.
@@ -59,3 +58,5 @@
 - ![](img/Mounting-Harness-2-14.jpg) 14.  Bring the tails forward and underneath the back of the waist strap of the Doggy Style Harness.
 - ![](img/Mounting-Harness-2-15.jpg) 15.  Pull the tails to set the level of tightness you want.
 - ![](img/Mounting-Harness-2-16.jpg) 16.  You can either hold onto these lines and can therefore can adjust tension throughout your scene, or you can tie them off.
+
+</div>
