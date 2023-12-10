@@ -36,8 +36,6 @@
 
 ## Expanded Version
 
-<div class="flow">
-
 1. ![](img/Mounting-Harness-2-1.jpg) Start as you do in the version above, but this time place your Lark’s Head Knots to the outside of your partner’s thigh cuffs.
 2. ![](img/Mounting-Harness-2-2.jpg) Run the tails down through between the thigh cuffs and your partner closer to the center of the thigh straps, as shown. These will be the top of the straps going around your thighs.
 3. ![](img/Mounting-Harness-2-3.jpg) Make these loops large enough for you to step into.
@@ -57,5 +55,3 @@
 14. ![](img/Mounting-Harness-2-14.jpg) Bring the tails forward and underneath the back of the waist strap of the Doggy Style Harness.
 15. ![](img/Mounting-Harness-2-15.jpg) Pull the tails to set the level of tightness you want.
 16. ![](img/Mounting-Harness-2-16.jpg) You can either hold onto these lines and can therefore can adjust tension throughout your scene, or you can tie them off.
-
-</div>
