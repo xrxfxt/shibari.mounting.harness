@@ -1,6 +1,5 @@
 # [Mounting Harness - TheDuchy](img/#pics-extended-version)
 
-
 <!-- vim-markdown-toc GFM -->
 
 * [Simple Version](#simple-version)
@@ -8,9 +7,9 @@
 
 <!-- vim-markdown-toc -->
 
-
 <div class="flow">
-## Simple Version
+
+  ## Simple Version
 
 1. ![](img/Mounting-Harness-1-1.jpg) Begin with a Doggy Style Harness.
 2. ![](img/Mounting-Harness-1-2.jpg) Add a new rope to the inside of the cuff on each leg. To do so, run the bight under the cuff as shown…
